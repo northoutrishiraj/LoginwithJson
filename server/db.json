@@ -1,0 +1,19 @@
+{
+  "registers": [
+    {
+      "name": "Rishi",
+      "email": "rishirajpal18@gmail.com",
+      "password": "12345",
+      "password2": "12345",
+      "id": 1
+    },
+    {
+      "name": "Rishiraj",
+      "email": "rishirajpal@gmail.com",
+      "password": "1234",
+      "password2": "1234",
+      "file": "C:\\fakepath\\dataset2.xml",
+      "id": 2
+    }
+  ]
+}
